@@ -4,7 +4,7 @@ This page contains all the scripts used to manage the resource group creation an
 It mainly focus on creation and deletion....
 
 ## AzResMan_Create
-[Location](location goes here)
+["Location"](location goes here)
 ### Purpose
 This is text to explain the purpose of the script.
  
