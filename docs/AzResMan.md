@@ -4,7 +4,8 @@ This page contains all the scripts used to manage the resource group creation an
 It mainly focus on creation and deletion....
 
 ## AzResMan_Create
-[Location](http://location "Thew location goes here")
+[![GitHub release](https://img.shields.io/badge/Version-1.0-blue)](https://cutt.ly/f1fU3G "link to script")
+
 ### Purpose
 This is text to explain the purpose of the script.
  
