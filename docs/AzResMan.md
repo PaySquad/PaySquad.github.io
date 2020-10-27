@@ -4,8 +4,23 @@ This page contains all the scripts used to manage the resource group creation an
 It mainly focus on creation and deletion....
 
 ## AzResMan_Create
+[Location](location goes here)
+### Purpose
+This is text to explain the purpose of the script.
+ 
+### Inputs
+ 
+|Var Name|Usage|Default Value|
+|--------|-----|-------------|
+| Var 1  |This var is used to specify ....| None|
+ 
+### Outputs
+ 
+|Var Name|Usage|Default Value|
+|--------|-----|-------------|
+| Var 1  |This var is used to specify ....| None|
+ 
 
-template for script will go here.
 ## AzResMan_Create_bis
 
 template for script will go here.
