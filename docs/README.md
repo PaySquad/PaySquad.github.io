@@ -11,7 +11,7 @@ The following template will be required to document each script.
 ?> **Copy & Paste** the following code
 ```markdown
 ## Script Name
-[Location](location goes here)
+[![GitHub release](https://img.shields.io/badge/Version-1.0-blue)](https://cutt.ly/f1fU3G "link to script")
 ### Purpose
 This is text to explain the purpose of the script.
  
